@@ -71,5 +71,5 @@
   <hr>
   <p>We used the pre trained models from the website <a href="https://teachablemachine.withgoogle.com/train/image">techabalemachinewithgoogle</a></p>
   </body>
-  
+  <footer>Download the code! download the liberaries according to the requiremnt.txt file Run the code and Enjoy!</footer>
 </html>
