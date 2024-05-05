@@ -27,7 +27,12 @@
                    <li> Apply color threshold techniques to isolate target colors within the area.</li>
                   <li> Implement logic to map detected colors to corresponding game actions </li>
       </ol>
-  
+    <h3>How to use color detection model ?</h3>
+    <ul>
+      <li>First pick a solid colored matirial and run the program in the folder color.py and set the HSV values according to it  </li>
+      <li>Now use those HSV values in the control.py at the line 27 and run the programm!</li>
+      <li>As well as for the hybrid model use the HSV value.</li>
+    </ul>
    <h2>Model 2: Hand Gesture Recognition</h2>
       <p>
           <strong>Description:</strong> This model interprets hand gestures captured by a camera to control Mario's movements in the game. Different gestures correspond to actions like moving and jumping.
